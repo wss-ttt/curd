@@ -1,21 +1,11 @@
-# curd
+用到的知识点:
+1 vue 搭建整个框架
+2 vue-router 进行单面的路由跳转
+3 vuex进行数据的共享 实现增删改查
+4 css的一些操作
+![image](https://github.com/wss-ttt/curd/blob/master/static/images/notes/1.jpg)
+![image](https://github.com/wss-ttt/curd/blob/master/static/images/notes/2.jpg)
+![image](https://github.com/wss-ttt/curd/blob/master/static/images/notes/3.jpg)
+![image](https://github.com/wss-ttt/curd/blob/master/static/images/notes/4.jpg)
+![image](https://github.com/wss-ttt/curd/blob/master/static/images/notes/5.jpg)
 
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
